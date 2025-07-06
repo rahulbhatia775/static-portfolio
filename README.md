@@ -13,6 +13,6 @@ CSS<br>
 JavaScript<br>
 
 Live Demo<br>
-You can view my portfolio live at: https://rahulbhatia775.github.io/ <br>
+You can view my portfolio live at: https://rahulbhatia775.github.io/static-portfolio <br>
 
 
